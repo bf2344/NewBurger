@@ -1,5 +1,5 @@
 {
-  "name": "burger-",
+  "name": "newburger",
   "version": "1.0.0",
   "description": "LOL",
   "main": "index.js",
@@ -9,18 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bf2344/Burger-.git"
+    "url": "git+https://github.com/bf2344/NewBurger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bf2344/Burger-/issues"
+    "url": "https://github.com/bf2344/NewBurger/issues"
   },
-  "homepage": "https://github.com/bf2344/Burger-#readme",
+  "homepage": "https://github.com/bf2344/NewBurger#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
     "handlebars": "^4.1.2",
     "mysql": "^2.16.0"
-  }
+  },
+  "devDependencies": {}
 }
